@@ -3,12 +3,12 @@
 This notebook aims to predict **IC50 effect size** using drug and biological feature data. I will explore the data, perform feature engineering, and compare model performances, including Random Forest, XGBoost, and Gradient Boosting.
 
 Files: 
-Drug_sensitivity_in_cancer.ipynb - Main notebook with all analysis, plots, and explanations
-COREAD_ANOVA_Thu Oct 24 18_42_45 2024 - Dataset
-SHAP.png - SHAP feature analysis
-distribution.png - Distribution of IC50 Effect Size
-feature_importance.png - top 10 feature importance from the Random Forest model
-heatmap.png - heatmap of feature correlation
+* Drug_sensitivity_in_cancer.ipynb - Main notebook with all analysis, plots, and explanations
+* COREAD_ANOVA_Thu Oct 24 18_42_45 2024 - Dataset
+* SHAP.png - SHAP feature analysis
+* distribution.png - Distribution of IC50 Effect Size
+* feature_importance.png - top 10 feature importance from the Random Forest model
+* heatmap.png - heatmap of feature correlation
 
 
 Applications of this data and analysis include:
