@@ -15,7 +15,8 @@ In this notebook, I have used **SHAP** to explain which variables are influencin
 
 I also checked for **multicollinearity** (correlation between independent variables) and ran a **Principal Components Analysis (PCA)** for **Dimensionality Reduction**, and compared these results to the original models. 
 
-DATA
+
+**DATA**
 
 The dataset used in this analysis can be found at: Genomics of Drug Sensitivity in Cancer (GDSC) project, a large public resource that provides data on how different cancer cell lines respond to various drugs. www.cancerrxgene.org
 
@@ -47,5 +48,9 @@ Important Columns in the Dataset
 4. Other Features:
 * Tissue Type: The type of cancer associated with the cell line.
 * Screening Set: Identifies whether the data comes from GDSC1 or GDSC2.
+
+
+**Results** 
+The best model was the Random Forest, with MSE of 0.0178, and RMSE of 0.0428
 
  
