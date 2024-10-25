@@ -1,6 +1,6 @@
 # Drug_Sensitivity_in_Cancer
 
-This notebook aims to predict** IC50 effect size** using drug and biological feature data. I will explore the data, perform feature engineering, and compare model performances, including Random Forest, XGBoost, and Gradient Boosting.
+This notebook aims to predict **IC50 effect size** using drug and biological feature data. I will explore the data, perform feature engineering, and compare model performances, including Random Forest, XGBoost, and Gradient Boosting.
 
 Applications of this data and analysis include:
 1. Precision Oncology: By identifying which genomic features are associated with drug sensitivity, this dataset can help develop more personalized cancer therapies.
