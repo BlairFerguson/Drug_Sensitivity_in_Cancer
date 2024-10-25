@@ -10,6 +10,17 @@ Files:
 * feature_importance.png - top 10 feature importance from the Random Forest model
 * heatmap.png - heatmap of feature correlation
 
+Dependencies: 
+* pandas
+* numpy
+* matplotlib
+* seaborn
+* scikit-learn
+* xgboost
+* shap
+* statsmodels
+* ace_tools
+
 
 Applications of this data and analysis include:
 1. Precision Oncology: By identifying which genomic features are associated with drug sensitivity, this dataset can help develop more personalized cancer therapies.
